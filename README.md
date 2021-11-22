@@ -7,6 +7,7 @@
 
 ## [Bayesian non-negative matrix factorization with expectation maximization algorithm to infer genetic signature](https://github.com/estelleyao0530/Statistical-modeling/tree/main/Bayesian%20NMF-EM)
 - Derived exponential-normal mixture model to separate background distribution from true genetic activity thus increasing power to detect differentially expressed genetic signatures 
+![alt text](https://github.com/estelleyao0530/Statistical-modeling/blob/main/Figure/EM_example.png)
 
 ## [Canonical correlation analysis to integrate functional genomics: CRISPR genetic screens with drug sensitiivty screen](https://github.com/estelleyao0530/Statistical-modeling/tree/main/Canonical%20correlation%20analysis)
 - Applied canonical correlation to integrate functional genomics 
