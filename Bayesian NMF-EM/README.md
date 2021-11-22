@@ -1,7 +1,7 @@
 # Bayesian NMF-EM framework
 
 ## Background
-[Bayesian non-negative matrix factorization models](https://arxiv.org/pdf/1111.6085.pdf) single cell count with exponential prior and infer genetic signatures in single cell RNA-seq transcriptomic data. However, background rate can confound true signal when conducting downstream analysis
+[Bayesian non-negative matrix factorization model](https://arxiv.org/pdf/1111.6085.pdf) models single cell counts with exponential prior and infer genetic signatures in single cell RNA-seq transcriptomic data. However, background rate can confound true signal when conducting downstream analysis
 
 ## Method 
 Derived and implemented exponential-gaussian mixture model to infer true expression activities
