@@ -14,3 +14,4 @@ A regularized model is selected in light of the collinearities among genetic fea
 
 We showcased differential performances for lasso regression based model across driver oncogenes and cancer types
  
+![alt_text](https://github.com/estelleyao0530/Statistical-modeling/blob/main/Figure/lasso_result.png)
