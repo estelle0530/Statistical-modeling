@@ -3,7 +3,7 @@
 ## Background
 Multivariate analysis such as principle component analysis (PCA) and partial least square regression (PLS) have been utilized to understand genetic data. While PCA selects variables by maximizing variance within a data set and PLS selects variables by maximizing covariance between two data sets, Canonical correlation analysis (CCA) selects variables by maximizing correlation between two data sets. This is a useful multivariate model to understand high dimensional data when the underlying assumption is multivariable correlations between two data sets of interest. 
 
-CCA interpretation
+## CCA interpretation
 ### 1. CCA variate score  
 CCA variate score represents the rotation of the sample space to achieve to maximized correlations between two data sets. One can think of CCA variate score synonymous to PCA scores.   
 
